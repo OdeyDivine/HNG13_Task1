@@ -42,4 +42,5 @@
 - Price Strategy: Review pricing for lower-performing categories to maintain competitiveness and margin stability.
 
   ---
+  ## [Link to the Dataset](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
   
